@@ -1,6 +1,7 @@
 # EV_Adoption_Insights
 •	Project Title: Consumer Behaviour Towards Buying an Electric Vehicle(EV)
 (May 2024 – June 2024)
+
 [Data-driven analysis of consumer behavior towards electric vehicle adoption in India, using logistic regression, PCA, and behavioral segmentation to uncover actionable insights for market strategy and policy design.]
 
 •	Objective:
